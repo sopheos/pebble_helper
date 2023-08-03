@@ -1,6 +1,7 @@
 {
     "name": "sopheos/pebble_helper",
     "description": "Sopheos Helper",
+    "license": "MIT",
     "require": {
         "php": ">=8.1.0"
     },
